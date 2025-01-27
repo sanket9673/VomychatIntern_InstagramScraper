@@ -1,5 +1,3 @@
-[Go back to the Main Documenation](https://github.com/drawrowfly/instagram-scraper)
-
 ## Batch Scrape And Download Example
 
 **This function works really good with fast internet and good proxies**
