@@ -1,6 +1,6 @@
 ## Batch Scrape And Download Example
 
-**This function works really good with fast internet and good proxies**
+**This function works good with fast internet and good proxies**
 
 In order to download in batch you need to create a file(any name) with one value per line. Lines that are starting with ## are considered as comments and will be ignored.
 
