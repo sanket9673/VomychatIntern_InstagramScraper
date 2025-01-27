@@ -1,5 +1,3 @@
-[Go back to the Main Documenation](https://github.com/drawrowfly/instagram-scraper)
-
 ## Promise
 
 ```javascript
