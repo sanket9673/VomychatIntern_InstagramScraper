@@ -1,5 +1,3 @@
-[Go back to the Main Documenation](https://github.com/drawrowfly/instagram-scraper)
-
 ## Manage Download History
 
 ![History](https://i.imgur.com/VnDKh72.png)
